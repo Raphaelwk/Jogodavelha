@@ -5,7 +5,7 @@ API REST com .Net Framework 4.6.1 e alguns padrões de desenvolvimento como "DDD
 
 
 ### Instruções para executar a API:
-1.	Clonar ou baixar o repositório do git 
+1.	Clonar ou baixar o repositório do git https://github.com/Raphaelwk/Jogodavelha 
 2.	Abrir o arquivo projeto utilizando Visual Studio.
 3.	Executar o projeto.
 
