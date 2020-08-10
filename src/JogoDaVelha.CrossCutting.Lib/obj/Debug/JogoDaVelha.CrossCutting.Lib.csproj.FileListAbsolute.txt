@@ -1,0 +1,12 @@
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\bin\Debug\JogoDaVelha.CrossCutting.Lib.dll
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\bin\Debug\JogoDaVelha.CrossCutting.Lib.pdb
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.csproj.CoreCompileInputs.cache
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.dll
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.pdb
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\ProvaDti\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.csprojAssemblyReference.cache
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\bin\Debug\JogoDaVelha.CrossCutting.Lib.dll
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\bin\Debug\JogoDaVelha.CrossCutting.Lib.pdb
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.csprojAssemblyReference.cache
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.csproj.CoreCompileInputs.cache
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.dll
+C:\_TFS\ronanvale.visualstudio\Estudo\ProvaDti\JogoDaVelha\src\JogoDaVelha.CrossCutting.Lib\obj\Debug\JogoDaVelha.CrossCutting.Lib.pdb
